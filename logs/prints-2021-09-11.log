@@ -1,0 +1,8 @@
+03:04:02.878 [main] INFO  testClasses.Basic -  Test failed loginuser 2
+03:04:24.431 [main] INFO  testClasses.Basic - Test Success loginTest 3
+03:04:29.739 [main] INFO  testClasses.Basic -  Test failed loginTest 4
+03:04:35.373 [main] INFO  testClasses.Basic -  Test failed loginTest 5
+03:04:42.561 [main] INFO  testClasses.Basic - Test Success loginTest 6
+03:04:45.918 [main] INFO  testClasses.Basic -  Test failed loginTest 7
+03:58:20.134 [main] INFO  testClasses.Basic - Test Success login 1
+03:58:33.035 [main] INFO  testClasses.Basic -  Test failed loginuser 2
